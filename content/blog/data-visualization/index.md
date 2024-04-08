@@ -154,4 +154,14 @@ renders as
 
 {{< table path="results.csv" header="true" caption="Table 1: My results" >}}
 
+## Charts via Flourish
+
+Hugo Blox allows embedded [Flourish](https://app.flourish.studio/) links for interactive data visualizations. With Flourish, you can design almost any kind of visualization you can imagine!
+
+Open Flourish via the below link then Save and Publish your data visualization anywhere.
+
+Demo:
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/17476169"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## Did you find this page helpful? Consider sharing it 🙌
