@@ -164,4 +164,12 @@ Demo:
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/17476169"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+Here is another Flourish template (survey template) to see how integrated Flourish is within Hugo Blox:
+
+<div class="flourish-embed flourish-survey" data-src="visualisation/17504603"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Or does a visitor to the site have to go to flourish link to interact with above graphic?
+
+https://public.flourish.studio/visualisation/17504603/
+
 ## Did you find this page helpful? Consider sharing it 🙌
